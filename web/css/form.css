@@ -1,0 +1,26 @@
+.form {
+    background: #e4ecf2;
+    background-image: -webkit-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: -moz-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: -ms-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: -o-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: linear-gradient(to bottom, #fffcf3, #fffcf3);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #1f0f1f;
+    font-size: 20px;
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+}
+
+.form:hover {
+    background: #fffcf3;
+    background-image: -webkit-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: -moz-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: -ms-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: -o-linear-gradient(top, #fffcf3, #fffcf3);
+    background-image: linear-gradient(to bottom, #fffcf3, #fffcf3);
+    text-decoration: none;
+}
